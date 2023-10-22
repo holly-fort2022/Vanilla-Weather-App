@@ -145,3 +145,7 @@ li {
   margin-top: 30px;
   align-items: center;
 }
+
+.weatherInfo a {
+  text-decoration: none;
+}
