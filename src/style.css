@@ -2,6 +2,10 @@ body {
   background: #f8e8f4;
 }
 
+li {
+  text-transform: capitalize;
+}
+
 .weather {
   font-family: "Sono";
   background: rgba(222, 162, 235, 0.761);
@@ -95,7 +99,7 @@ body {
 }
 
 .weather footer {
-  font-size: 14px;
+  font-size: 12px;
   margin-top: 40px;
   line-height: 18px;
   text-align: center;
