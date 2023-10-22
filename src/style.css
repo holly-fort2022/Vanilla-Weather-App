@@ -149,3 +149,12 @@ li {
 .weatherInfo a {
   text-decoration: none;
 }
+
+.temperature-container .active {
+  color: rgb(71, 49, 179);
+  cursor: default;
+}
+
+.temperature-container .active:hover {
+  text-decoration: none;
+}
