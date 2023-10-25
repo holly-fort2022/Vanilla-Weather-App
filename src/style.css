@@ -2,10 +2,6 @@ body {
   background: #f8e8f4;
 }
 
-li {
-  text-transform: capitalize;
-}
-
 .weather {
   font-family: "Sono";
   background: rgba(222, 162, 235, 0.761);
@@ -157,4 +153,8 @@ li {
 
 .temperature-container .active:hover {
   text-decoration: none;
+}
+
+#condition {
+  text-transform: capitalize;
 }
