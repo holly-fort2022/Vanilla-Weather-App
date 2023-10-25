@@ -106,21 +106,21 @@ body {
   color: #774ede;
 }
 
-.weatherForecast {
+.weather-forecast {
   text-align: center;
   margin: 40px 0;
   border-bottom: 1px solid #f9f7fe;
   padding-bottom: 50px;
 }
 
-.weatherForecast .forecast-time {
+.weather-forecast .weather-forecast-date {
   font-size: 16px;
   line-height: 20px;
   text-align: center;
   color: rgba(24, 20, 40, 0.4);
 }
 
-.weatherForecast .forecast-temperature {
+.weather-forecast .weather-forecast-temperatures {
   font-style: normal;
   font-size: 18px;
   line-height: 1.5;
@@ -128,7 +128,7 @@ body {
   font-weight: bold;
 }
 
-.weatherForecast .forecast-temperature-min {
+.weather-forecast .weather-forecast-temperature-min {
   margin-left: 10px;
   opacity: 0.6;
 }
